@@ -5,7 +5,8 @@ band solar cell.
 
 | ![plot](figures/IBSC_GUI_main.png) |
 |:--:|
-| <b> Fig.1 - GUI </b> |
+| __Fig.1 - GUI__ |
+
 
 
 <b>Figure 1</b> shows the main interface. The IBSC is simulated from a p-i-n semiconductor juntion, where a semiconductor with lesser band gap (forming the QW layer) is sandwiched between two layers of a bigger gap semiconductor (forming the barriers). At the present moment, the barriers are formed by ![formula](https://render.githubusercontent.com/render/math?math=Al_xGa_{1-x}As), and the QW is formed by ![formula](https://render.githubusercontent.com/render/math?math=Ga_yIn_{1-y}As). 
@@ -24,6 +25,10 @@ Tho control the current generation, several structural parameters can be set:
 ```
 
 The GUI allows for controlling such parameters or using standar ones by just clicing the buttons, as shown in __fig. 2__.
+
+| ![plot](figures/GUI-topButs.png) |
+|:--:|
+| __Fig.2 - Choosing parameters__ |
 
 
 
