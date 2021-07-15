@@ -13,7 +13,7 @@ band solar cell.
 
 The Quantum Well is within the intrisec (non-dopped) region of the p-i-n junction. The n- and p-type dopping generates an intrinsec electric field that bends
 the i-layer. When light is shed on the structure, electrons from the valence band (VB) are excited towards the conduction band (CB), unbalancing the charge in the
-structure. Connecting the contacts, a short-circuit current is created with both the electrons being driffed at CB and the holes at VB.
+structure. Connecting the contacts, a short-circuit current is created with both the electrons being drifted at CB and the holes drifted at VB.
 
 Tho control the current generation, several structural parameters can be set:
 
@@ -21,7 +21,7 @@ Tho control the current generation, several structural parameters can be set:
 * Quantum Well Width
 * Quantum Well height
 * Intrinsec electric field
-* p-i-n intrisec layer width
+* p-i-n intrisic layer width
 ```
 
 The GUI allows for controlling such parameters or using standar ones by just clicing the buttons, as shown in __fig. 2__.
