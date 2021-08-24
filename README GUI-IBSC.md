@@ -31,5 +31,7 @@ The GUI allows for controlling such parameters or using standar ones by just cli
 | __Fig.2 - Choosing parameters__ |
 
 
+The concentration of each element defines the energy bandgap. The misalignment between the different layers put together determines the potential profile of the structure. In the simulation, the concentration of the elements for the barrier layer and the quantum well layer can be adjusted. Therefore, the band offset (related to the difference between the layer's gap distributed across valence and conduction bands) can be adjusted determining the quantum-well heights.
 
+The interface also allows for adjusting the quantum well width, as well as the size of the intrinsic region of the p-i-n junction, and the built-in electric field. After choosing the parameters, the potential profile could be plotted. The interface will display the band offsets and the quantum well bandgap at the right-hand-side panel.
 
